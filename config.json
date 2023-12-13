@@ -1,0 +1,29 @@
+[
+ {
+         "Name": "Export to File",
+         "Desc": "Exporting to xml file",
+         "Icon": "icon.ico",
+         "Path": "test.py"
+ }
+ ,
+ {
+         "Name": "Test2",
+         "Desc": "Test something",
+         "Icon": "icon2.ico",
+         "Path": "export.py"
+ }
+ ,
+ {
+		"Name": "Python_Script",
+		"Desc": "Test Iron Python",
+		"Icon": "python.ico",
+		"Path": "pyton.py"
+ }
+ ,
+ {
+		"Name": "Import_POU",
+		"Desc": "Script for import POUs",
+		"Icon": "import.ico",
+		"Path": "import.py"
+ }
+]
